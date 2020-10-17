@@ -1,0 +1,167 @@
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\ScholarCounter.exe.config
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\ScholarCounter.exe
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\ScholarCounter.pdb
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csprojAssemblyReference.cache
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.Properties.Resources.resources
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csproj.GenerateResource.cache
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csproj.CoreCompileInputs.cache
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.exe
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.pdb
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.Form1.resources
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\MetroFramework.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csproj.CopyComplete
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\MySql.Data.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\Google.Protobuf.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\Zstandard.Net.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\BouncyCastle.Crypto.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\Ubiety.Dns.Core.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\Renci.SshNet.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\System.Buffers.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\K4os.Compression.LZ4.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\K4os.Hash.xxHash.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\System.Memory.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\System.Numerics.Vectors.dll
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\bin\Debug\MySql.Data.xml
+D:\Gindowa Technologies\C# and .NET\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.exe.config
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csprojAssemblyReference.cache
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.Form1.resources
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.Properties.Resources.resources
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csproj.GenerateResource.cache
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csproj.CoreCompileInputs.cache
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.exe
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.pdb
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\ScholarCounter.exe.config
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\ScholarCounter.exe
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\ScholarCounter.pdb
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\Google.Protobuf.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\MySql.Data.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\Renci.SshNet.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Buffers.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Memory.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\Zstandard.Net.dll
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\Google.Protobuf.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\MySql.Data.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\Renci.SshNet.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Buffers.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Memory.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.csproj.CopyComplete
+C:\Users\kapilv\source\repos\ScholarCounter\ScholarCounter\obj\Debug\ScholarCounter.MDIParentMain.resources
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.exe.config
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.exe
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.pdb
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\Google.Protobuf.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\MySql.Data.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\Renci.SshNet.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Buffers.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Memory.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\Zstandard.Net.dll
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\Google.Protobuf.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\MySql.Data.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\Renci.SshNet.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Buffers.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Memory.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csprojAssemblyReference.cache
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.Form1.resources
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.MDIParentMain.resources
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.Properties.Resources.resources
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.GenerateResource.cache
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.CoreCompileInputs.cache
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.CopyComplete
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.exe
+C:\Users\shuaib\Desktop\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.pdb
+C:\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.exe.config
+C:\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.exe
+C:\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.pdb
+C:\SC-NEW\ScholarCounter\bin\Debug\BouncyCastle.Crypto.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\Google.Protobuf.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\K4os.Hash.xxHash.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\MySql.Data.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\Renci.SshNet.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Buffers.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Memory.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Numerics.Vectors.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\Ubiety.Dns.Core.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\Zstandard.Net.dll
+C:\SC-NEW\ScholarCounter\bin\Debug\Google.Protobuf.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\K4os.Hash.xxHash.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\MySql.Data.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\Renci.SshNet.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Buffers.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Memory.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Numerics.Vectors.xml
+C:\SC-NEW\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csprojAssemblyReference.cache
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.Form1.resources
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.MDIParentMain.resources
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.Properties.Resources.resources
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.GenerateResource.cache
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.CoreCompileInputs.cache
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.CopyComplete
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.exe
+C:\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.pdb
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.exe.config
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.exe
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\ScholarCounter.pdb
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\BouncyCastle.Crypto.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\Google.Protobuf.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\K4os.Hash.xxHash.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\MySql.Data.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\Renci.SshNet.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Buffers.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Memory.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Numerics.Vectors.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\Ubiety.Dns.Core.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\Zstandard.Net.dll
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\Google.Protobuf.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\K4os.Hash.xxHash.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\MySql.Data.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\Renci.SshNet.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Buffers.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Memory.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Numerics.Vectors.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csprojAssemblyReference.cache
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.Form1.resources
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.MDIParentMain.resources
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.Properties.Resources.resources
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.GenerateResource.cache
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.CoreCompileInputs.cache
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.csproj.CopyComplete
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.exe
+D:\Gindowa Technologies\ZIPPED\SC-NEW\ScholarCounter\obj\Debug\ScholarCounter.pdb
